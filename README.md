@@ -3,7 +3,7 @@
 ### Anticipating and Mitigating Future Problems Due to COVID-19
 #### The Number of Staffed Hospital Beds in Los Angeles, California, may indicate that if COVID-19 were to spread there will not be enough beds for everyone who is sick.
 
-This analysis observes the age of the population in US Counties. It is important to acknowledge these findings (i.e. population over 60, population 18 and under) because certain age groups are at risk of death if they develop COVID-19.
+This analysis observes the age of the population in US Counties. It is important to acknowledge these findings (i.e. population over 60, population 18 and under) because certain age groups are at risk of death if they develop COVID-19. In addition, these numbers can be used to determine which counties might be the most vulnerable to shortages of hospital beds if COVID-19 continues to spread.
 
 8 out of 10 deaths due to COVID-19 in the US have been in adults 65 and older (CDC).
 
